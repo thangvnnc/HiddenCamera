@@ -1,0 +1,10 @@
+<resources>
+    <string name="record">R</string>
+    <string name="stop">S</string>
+    <string name="app_name">ToT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+</resources>
